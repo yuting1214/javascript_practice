@@ -21,6 +21,8 @@ To get started with this repository, follow these steps:
 ## Highlight technical details
 
 1. Spread Operators(Unpack iterable)
+2. Rest parameters
+3. Callback
 
 ## Contributing
 
